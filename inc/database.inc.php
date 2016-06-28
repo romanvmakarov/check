@@ -1,9 +1,9 @@
 ﻿<?php
 // функции работы с базой
 //--------------------------------------------------------------------------------------------------    
-    function dbInitialConnect()
+    function dbInitialConnect($g_dbLink, $g_dblocation, $g_dbuser, $g_dbpasswd, $g_dbname, $g_dbport)
     {
-        global $g_dbLink, $g_dblocation, $g_dbuser, $g_dbpasswd, $g_dbname, $g_dbport;
+        global $g_dbLink;
         $g_dbLink = mysqli_connect($g_dblocation, $g_dbuser, $g_dbpasswd, $g_dbname, $g_dbport);
         $error = mysqli_connect_error();
         if ($error)

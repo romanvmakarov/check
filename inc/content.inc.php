@@ -6,7 +6,7 @@
       $page_url = dbQuote($page_url);
       // здесь должна быть валидация $page_url
       // здесь должна быть проверка на наличие в базе $page_url
-      $page_md5 = md5(file_get_contents("http://$page_url"));  
+      $page_md5 = md5(file_get_contents("http://$page_url"));
       $query = "INSERT INTO `pages` (`page_url`, `compare_need`, `page_md5`, `comparison_date`, `comparison_result`, `action_need`, `action_date`)
       VALUES ('$page_url', 1, '$page_md5', NOW(), 0, 0, NOW());";
       dbQuery($query);

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61616b4-ac6f-4782-87b5-bb848197156d" name="Default" comment="доработки">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/frontend.inc.php" />
+    <list default="true" id="c61616b4-ac6f-4782-87b5-bb848197156d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/check.inc.php" afterPath="$PROJECT_DIR$/inc/check.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/config.php" afterPath="$PROJECT_DIR$/inc/config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/content.inc.php" afterPath="$PROJECT_DIR$/inc/content.inc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/database.inc.php" afterPath="$PROJECT_DIR$/inc/database.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/work.inc.php" afterPath="$PROJECT_DIR$/inc/work.inc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="checkpagescontent.iws" />
@@ -58,18 +54,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="frontend.inc.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="frontend.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/frontend.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="96" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
+            <state relative-caret-position="432">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding>
                 <marker date="1467138565724" expanded="true" signature="339:738" ph="..." />
               </folding>
@@ -87,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -100,8 +96,8 @@
       <file leaf-file-name="database.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/database.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -110,12 +106,12 @@
       <file leaf-file-name="content.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/content.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="97" />
+            <state relative-caret-position="144">
+              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
               <folding>
-                <marker date="1467138420676" expanded="true" signature="470:663" ph="INSERT INTO `pages`... " />
-                <marker date="1467138420676" expanded="true" signature="1110:1190" ph="UPDATE `page... " />
-                <marker date="1467138420676" expanded="true" signature="1652:1732" ph="UPDATE `page... " />
+                <marker date="1467138947048" expanded="true" signature="468:661" ph="INSERT INTO `pages`... " />
+                <marker date="1467138947048" expanded="true" signature="1108:1188" ph="UPDATE `page... " />
+                <marker date="1467138947048" expanded="true" signature="1650:1730" ph="UPDATE `page... " />
               </folding>
             </state>
           </provider>
@@ -191,11 +187,11 @@
         <option value="$PROJECT_DIR$/common.inc.php" />
         <option value="$PROJECT_DIR$/inc/work.inc.php" />
         <option value="$PROJECT_DIR$/inc/check.inc.php" />
-        <option value="$PROJECT_DIR$/inc/content.inc.php" />
-        <option value="$PROJECT_DIR$/inc/database.inc.php" />
         <option value="$PROJECT_DIR$/inc/config.php" />
         <option value="$PROJECT_DIR$/inc/frontend.inc.php" />
+        <option value="$PROJECT_DIR$/inc/database.inc.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/inc/content.inc.php" />
       </list>
     </option>
   </component>
@@ -811,7 +807,7 @@
       <workItem from="1467117035352" duration="34000" />
       <workItem from="1467117102274" duration="246000" />
       <workItem from="1467117474690" duration="368000" />
-      <workItem from="1467117880519" duration="14376000" />
+      <workItem from="1467117880519" duration="14816000" />
     </task>
     <task id="LOCAL-00001" summary="документация &#10; первая версия приложения, требующая доработки">
       <created>1467123381434</created>
@@ -841,11 +837,18 @@
       <option name="project" value="LOCAL" />
       <updated>1467137942280</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="доработки">
+      <created>1467138574538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1467138574538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16213000" />
+    <option name="totallyTimeSpent" value="16653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -902,7 +905,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="документация &#10; первая версия приложения, требующая доработки" />
-    <option name="LAST_COMMIT_MESSAGE" value="документация &#10; первая версия приложения, требующая доработки" />
+    <MESSAGE value="доработки" />
+    <option name="LAST_COMMIT_MESSAGE" value="доработки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -952,9 +956,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467138420676" expanded="true" signature="470:663" ph="INSERT INTO `pages`... " />
-            <marker date="1467138420676" expanded="true" signature="1110:1190" ph="UPDATE `page... " />
-            <marker date="1467138420676" expanded="true" signature="1652:1732" ph="UPDATE `page... " />
+            <marker date="1467138947048" expanded="true" signature="468:661" ph="INSERT INTO `pages`... " />
+            <marker date="1467138947048" expanded="true" signature="1108:1188" ph="UPDATE `page... " />
+            <marker date="1467138947048" expanded="true" signature="1650:1730" ph="UPDATE `page... " />
           </folding>
         </state>
       </provider>
@@ -1024,9 +1028,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1467138420676" expanded="true" signature="470:663" ph="INSERT INTO `pages`... " />
-            <marker date="1467138420676" expanded="true" signature="1110:1190" ph="UPDATE `page... " />
-            <marker date="1467138420676" expanded="true" signature="1652:1732" ph="UPDATE `page... " />
+            <marker date="1467138947048" expanded="true" signature="468:661" ph="INSERT INTO `pages`... " />
+            <marker date="1467138947048" expanded="true" signature="1108:1188" ph="UPDATE `page... " />
+            <marker date="1467138947048" expanded="true" signature="1650:1730" ph="UPDATE `page... " />
           </folding>
         </state>
       </provider>
@@ -1096,10 +1100,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/work.inc.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
+        <state relative-caret-position="54">
+          <caret line="3" column="87" selection-start-line="3" selection-start-column="87" selection-end-line="3" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/frontend.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1467138565724" expanded="true" signature="339:738" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/content.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <marker date="1467138947048" expanded="true" signature="468:661" ph="INSERT INTO `pages`... " />
+            <marker date="1467138947048" expanded="true" signature="1108:1188" ph="UPDATE `page... " />
+            <marker date="1467138947048" expanded="true" signature="1650:1730" ph="UPDATE `page... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/database.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1116,30 +1150,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/content.inc.php">
+    <entry file="file://$PROJECT_DIR$/inc/work.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="97" />
-          <folding>
-            <marker date="1467138420676" expanded="true" signature="470:663" ph="INSERT INTO `pages`... " />
-            <marker date="1467138420676" expanded="true" signature="1110:1190" ph="UPDATE `page... " />
-            <marker date="1467138420676" expanded="true" signature="1652:1732" ph="UPDATE `page... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/database.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -1152,21 +1166,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/inc/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/frontend.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="96" selection-start-line="2" selection-start-column="96" selection-end-line="2" selection-end-column="96" />
-          <folding>
-            <marker date="1467138565724" expanded="true" signature="339:738" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
