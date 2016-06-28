@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c61616b4-ac6f-4782-87b5-bb848197156d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/database.inc.php" afterPath="$PROJECT_DIR$/inc/database.inc.php" />
+    <list default="true" id="c61616b4-ac6f-4782-87b5-bb848197156d" name="Default" comment="документация &#10; первая версия приложения, требующая доработки">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="checkpagescontent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -707,7 +707,7 @@
       <workItem from="1467117035352" duration="34000" />
       <workItem from="1467117102274" duration="246000" />
       <workItem from="1467117474690" duration="368000" />
-      <workItem from="1467117880519" duration="3977000" />
+      <workItem from="1467117880519" duration="4471000" />
     </task>
     <task id="LOCAL-00001" summary="документация &#10; первая версия приложения, требующая доработки">
       <created>1467123381434</created>
@@ -720,7 +720,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5814000" />
+    <option name="totallyTimeSpent" value="6308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
