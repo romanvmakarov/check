@@ -1,4 +1,4 @@
 <?php
 
 
-//  echo '<b>debug</b>: добавлен work.inc.php<br />';
+echo '<b>debug</b>: добавлен work.inc.php<br />';

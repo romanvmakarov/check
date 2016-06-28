@@ -6,4 +6,4 @@
   $g_dbpasswd = 'ilean';
   $g_dbport = 3306;
   
-//  echo '<b>debug</b>: добавлен config.php<br />';
+  echo '<b>debug</b>: добавлен config.php<br />';

@@ -6,7 +6,8 @@
   require_once ('./inc/check.inc.php');
   require_once ('./inc/work.inc.php');
   require_once ('./inc/notification.inc.php');
+  require_once ('./inc/frontend.inc.php');
 
-//  echo '<hr /><b>debug</b>: common.inc.php успешно отработал<br /><hr />';    
+  echo '<hr /><b>debug</b>: common.inc.php успешно отработал<br /><hr />';
     
-//подключаем файлы
+// подключаем файлы
